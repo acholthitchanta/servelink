@@ -1,7 +1,5 @@
-import { useEffect, useState } from "react";
-import { createClient } from "@supabase/supabase-js";
 import { Nav } from "./nav";
-
+import React from 'react';
 
 function App() {
   return (
